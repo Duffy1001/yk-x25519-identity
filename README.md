@@ -1,4 +1,4 @@
-# age-x25519-piv
+# age x25519 identity implementation for yubikey
 
 Create an [age](https://github.com/FiloSottile/age) X25519 identity using a YubiKey via the PIV interface.
 
